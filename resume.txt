@@ -1,0 +1,70 @@
+TASKEEN FIRDOSE
+#126,Bhemanna Garden,
+Shantinagar
+Bengaluru-560027
+9886680385
+firdosetaskeen@gmail.com
+
+Objective:
+Desire to work at a company that provides excellent opportunities, to acquire, and explore new capabilities for the benefit of the company and the community. 
+And to obtain a challenging task where I can efficiently use my ability as a computer science student for the performance of the company as well as myself.
+
+Education:
+Master of Computer Applications (MCA)
+Jyoti Nivas College, Bangalore, Karnataka
+Year – [2023-2025]
+
+Bachelor of Computer application (BCA)
+Bishop Cottons College, Bangalore, Karnataka
+Year – [2021-2023]
+
+State Boards(PCMC)
+Bishop Cottons College, Bangalore, Karnataka
+Year – [2018-2020]
+
+ICIC(10th)
+Baldwins Girls High school, Bangalore, Karnataka
+Year – [2017-2018]
+
+Technical Skills:
+- Programming Languages: Java, C++, Python, Artificial Intelligence, Visual Studio.net
+- Web Technologies: HTML, CSS
+- Databases: MySQL
+- Operating Systems: Windows, Linux
+
+Projects:
+Hotel Management System
+[Front End - Visual studio Back end - MySql, In this project the customers select their rooms according to their requirements it had admin page for the administrator, log in page for the user and the billing page.]
+
+Real Estate Management System 
+[Front End - java Back end - PHP, In this  project the customers select the available properties listed on the pages it had an admin page, log in page and the finalized property page]
+
+Internships:
+Marshal
+Year - 2023
+Role - AICTE
+
+Research Paper:
+Introduction To AI Chatbot (Won 3rd place)
+
+Achievements:
+Scroll Of Honour (Best Student Over All, UG)
+
+Extracurricular Activities:
+Secretary of an Technovation Club.
+Conducted technical events.
+Compered many events at college.
+
+Participated in inter college technical events:
+-Video Making
+-IT Qiuz
+Participated in college technical events:
+-Video Making
+-Movie Making
+-Poster Designing
+-Photography
+-Public speaking
+
+Languages:
+English, Hindi, Urdu
+
